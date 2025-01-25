@@ -7,6 +7,7 @@ npm init -y
 npm install --save-dev @11ty/eleventy (install as dev dependency)
 
 npx @11ty/eleventy
+npx @11ty/eleventy --serve
 
 eleventy gives u the choice of many templating languages.
 
